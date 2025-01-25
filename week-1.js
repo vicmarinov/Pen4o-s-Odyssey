@@ -1,4 +1,4 @@
-// This file provides a solution to the problem from week 1.
+// This file provides a solution to the problem from Week 1.
 // The problem statement can be found at the following link:
 // https://magical-lemonade-f70.notion.site/Pen4o-s-Odyssey-Week-1-16c8f86b5b1e802fb2dae878aad08e1a
 
